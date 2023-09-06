@@ -14,12 +14,11 @@ export const info = {
   experience: [
     {
       name: "Everyway",
-      location: "Owner",
+      location: "Founder",
       startDate: "January 2022",
       endDate: "Current",
       description: [
-        "- Developing screens and UI components for the web application using React and Tailwind.",
-        "- Fixing UI issues and integrating backend APIs with Redux Saga.",
+        "Enabling startups, business, creators, and artists to acheive their growth and revenue goals through multiple product and service offerings.",
       ],
     },
 
@@ -29,8 +28,7 @@ export const info = {
       startDate: "July 2022",
       endDate: "June 2023",
       description: [
-        "Executed a comprehensive rebranding and go-to-market strategy encompassing various platforms including websites, apps, and sales enablement resources.",
-        "Designed and implemented robust outbound and inbound marketing systems, incorporating paid advertising, outbound email sequences, and content marketing.",
+        "Executed a comprehensive rebranding and go-to-market strategy encompassing various platforms including websites, apps, and sales enablement resources. Designed and implemented robust outbound and inbound marketing systems, incorporating paid advertising, outbound email sequences, and content marketing.",
         "- Acheived 1200% increase in LinkedIn engagement.",
         "- Reached Page 1 in Google SERP within 30 days of content strategy going live",
         "- Increased website traffic by 3000 visitors per month",
@@ -73,7 +71,7 @@ export const info = {
       startDate: "July 2015",
       endDate: "March 2021",
       description: [
-        " I oversaw all website development, graphic design, social media, and client marketing campaigns. During this time I was responsible for obtaining commercial and government net new sales of $500,000 per year .",
+        " I oversaw all website development, graphic design, social media, and client marketing campaigns. During this time I was responsible for obtaining commercial and government net new sales of $250,000 per year .",
     
       ],
     },
@@ -135,11 +133,28 @@ export const info = {
 
   projects: [
     {
-      title: "Astro Portfolio",
+      title: "Coldwell Banker Now",
       isFeatured: true,
       thumbnail: "/assets/images/astro-portfolio.png",
-      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+      liveUrl: "https://cbnow.com/",
+    },
+    {
+      title: "Pollard's Chicken",
+      isFeatured: true,
+      thumbnail: "/assets/images/astro-portfolio-pollards.png",
+      liveUrl: "https://pollardschicken.com//",
+    },
+    {
+      title: "JavaScript Jam",
+      isFeatured: true,
+      thumbnail: "/assets/images/astro-portfolio-jsjam.png",
+      liveUrl: "https://www.javascriptjam.com/",
+    },
+    {
+      title: "IntellecTechs",
+      isFeatured: true,
+      thumbnail: "/assets/images/astro-portfolio-its.png",
+      liveUrl: "https://www.intellectechs.com/",
     },
   ],
 };
