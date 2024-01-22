@@ -135,7 +135,7 @@ export const info = {
     facebook: "https://www.facebook.com/mattglbrt",
     twitter: "https://twitter.com/mattglbrt",
     github: "https://github.com/mattglbrt",
-    email: "matt@goeveryway.com",
+    email: "mailto:matt@goeveryway.com",
     linkedin: "https://www.linkedin.com/in/mattglbrt/",
   },
 
