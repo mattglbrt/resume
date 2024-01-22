@@ -1,13 +1,14 @@
 export const info = {
   baseUrl: "https://themattgilbert.com",
   name: "Matt Gilbert",
-  jobDescription: "Growth Marketing & Demand Generation Leader",
+  jobDescription: "Sales, Growth Marketing & Demand Generation Leader",
   about: `I have 18 years of experience in the marketing and information technology industries. 
   I have led product marketing and demand generation teams for startups, entrepreneurs, and 
   Fortune 100 companies for the last decade. I have helped startups go to market and become 
   acquired, small businesses go from 0 to their first 10 million, and managed global marketing 
-  teams for publicly traded companies making 200 million a year. Additionally, I have extensive experience in
-  the government sector working with both government agencies fulfilling contracts, and working with
+  teams for publicly traded companies making 200 million a year. I’ve managed global marketing teams for publicly traded
+  companies and propelled small businesses to their first million. I have produced over 200 websites for a multitude of businesses and entrepreneurs.
+  This one is for me. I have extensive experience in the government sector working with both government agencies fulfilling contracts, and working with
   contractors to acquire them.
   `,
 
@@ -15,10 +16,10 @@ export const info = {
     {
       name: "Everyway",
       location: "Founder",
-      startDate: "January 2022",
+      startDate: "January 2020",
       endDate: "Current",
       description: [
-        "Enabling startups, business, creators, and artists to acheive their growth and revenue goals through multiple product and service offerings.",
+        "A small business and startup consulting group focusing on RevOps that has generated over 3.2 million dollars of revenue for my clients over the last 4 years.",
       ],
     },
 
@@ -139,10 +140,10 @@ export const info = {
       liveUrl: "https://cbnow.com/",
     },
     {
-      title: "Pollard's Chicken",
+      title: "Beacon Solar",
       isFeatured: true,
-      thumbnail: "/assets/images/astro-portfolio-pollards.png",
-      liveUrl: "https://pollardschicken.com//",
+      thumbnail: "/assets/images/astro-portfolio-beacon.png",
+      liveUrl: "https://beacon.eco/",
     },
     {
       title: "JavaScript Jam",
@@ -150,11 +151,24 @@ export const info = {
       thumbnail: "/assets/images/astro-portfolio-jsjam.png",
       liveUrl: "https://www.javascriptjam.com/",
     },
+
+    {
+      title: "Patrona Corp",
+      isFeatured: true,
+      thumbnail: "/assets/images/astro-portfolio-patrona.png",
+      liveUrl: "https://patronacorp.com/",
+    },
     {
       title: "IntellecTechs",
       isFeatured: true,
       thumbnail: "/assets/images/astro-portfolio-its.png",
       liveUrl: "https://www.intellectechs.com/",
+    },
+    {
+      title: "Pollard's Chicken",
+      isFeatured: true,
+      thumbnail: "/assets/images/astro-portfolio-pollards.png",
+      liveUrl: "https://pollardschicken.com//",
     },
   ],
 };
