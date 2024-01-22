@@ -19,7 +19,8 @@ export const info = {
       startDate: "January 2020",
       endDate: "Current",
       description: [
-        "A small business and startup consulting group focusing on RevOps that has generated over 3.2 million dollars of revenue for my clients over the last 4 years.",
+        "A small business and startup consulting group focusing on RevOps.",
+        "- 3.2m of Revenue Generated for Clients",
       ],
     },
 
@@ -42,7 +43,9 @@ export const info = {
       startDate: "July 2022",
       endDate: "June 2023",
       description: [
-        "I served as a consultant for the JavaScript Jam podcast and the Composability Summit 2022. My responsibilities included the development and implementation of an outbound email campaign, which successfully secured 27 leading industry speakers. I also handled all aspects of video production, design, and marketing related to the summit. The event achieved over 130,000 views and attracted 5,000 registered attendees.",
+        "I served as a consultant for the JavaScript Jam podcast and the Composability Summit 2022. My responsibilities included the development and implementation of an outbound email campaign, which successfully secured 27 leading industry speakers. I also handled all aspects of video production, design, and marketing related to the summit.",
+        "- Reached over 130,000 views and attracted 5,000 registered attendees.",
+        "- Secured 27 industry experts to speak at the event",
     
       ],
     },
@@ -52,8 +55,10 @@ export const info = {
       startDate: "September 2021",
       endDate: "January 2022",
       description: [
-        "Lead global marketing teams located in the United States, UK, India, and Japan while managing $30,000 monthly ad spend. Directly reported to the VP of Demand Gen to develop and coordinate all inbound and outbound marketing campaigns.",
-    
+        "Lead global marketing teams located in the United States, UK, India, and Japan. Directly reported to the VP of Demand Gen to develop and coordinate all inbound and outbound marketing campaigns.",
+        "- Directly managed $30,000 in monthly Adspend",
+        "- Created global go to market strategy resposible for 2.5m in Revenue",
+        "- Managed over 30 direct reports",
       ],
     },
     {
@@ -72,7 +77,9 @@ export const info = {
       startDate: "July 2015",
       endDate: "March 2021",
       description: [
-        " I oversaw all website development, graphic design, social media, and client marketing campaigns. During this time I was responsible for obtaining commercial and government net new sales of $250,000 per year .",
+        " I oversaw all website development, graphic design, social media, and client marketing campaigns. During this time I was responsible for obtaining commercial and government net new sales of $250,000 per year.",
+        "-Managed over 80 Client Accouts",
+        "-Responsible for $250,000 in sales per year",
     
       ],
     },
