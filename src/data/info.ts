@@ -6,9 +6,8 @@ export const info = {
   I have led product marketing and demand generation teams for startups, entrepreneurs, and 
   Fortune 100 companies for the last decade. I have helped startups go to market and become 
   acquired, small businesses go from 0 to their first 10 million, and managed global marketing 
-  teams for publicly traded companies making 200 million a year. I’ve managed global marketing teams for publicly traded
-  companies and propelled small businesses to their first million. I have produced over 200 websites for a multitude of businesses and entrepreneurs.
-  This one is for me. I have extensive experience in the government sector working with both government agencies fulfilling contracts, and working with
+  teams for publicly traded companies. I have produced over 200 websites for a multitude of businesses and entrepreneurs.
+  I have extensive experience in the government sector working with both government agencies fulfilling contracts, and working with
   contractors to acquire them.
   `,
 
@@ -19,7 +18,7 @@ export const info = {
       startDate: "January 2020",
       endDate: "Current",
       description: [
-        "A small business and startup consulting group focusing on RevOps.",
+        "A solo consultant focusing on RevOps.",
         "- 3.2m of Revenue Generated for Clients",
       ],
     },
@@ -30,7 +29,7 @@ export const info = {
       startDate: "July 2022",
       endDate: "June 2023",
       description: [
-        "Executed a comprehensive rebranding and go-to-market strategy encompassing various platforms including websites, apps, and sales enablement resources. Designed and implemented robust outbound and inbound marketing systems, incorporating paid advertising, outbound email sequences, and content marketing.",
+        "Executed a comprehensive rebranding and go-to-market strategy encompassing various channels including websites, apps, and sales enablement resources. Designed and implemented robust outbound and inbound marketing systems, incorporating paid advertising, outbound email sequences, and content marketing.",
         "- Acheived 1200% increase in LinkedIn engagement.",
         "- Reached Page 1 in Google SERP within 30 days of content strategy going live",
         "- Increased website traffic by 3000 visitors per month",
@@ -55,9 +54,9 @@ export const info = {
       startDate: "September 2021",
       endDate: "January 2022",
       description: [
-        "Lead global marketing teams located in the United States, UK, India, and Japan. Directly reported to the VP of Demand Gen to develop and coordinate all inbound and outbound marketing campaigns.",
+        "Lead global marketing teams located in the US, EMEA, and APAC regions. Directly reported to the VP of Demand Gen to develop and coordinate all inbound and outbound marketing campaigns.",
         "- Directly managed $30,000 in monthly Adspend",
-        "- Created global go to market strategy resposible for 2.5m in Revenue",
+        "- Created a global product marketing strategy",
         "- Managed over 30 direct reports",
       ],
     },
@@ -78,8 +77,8 @@ export const info = {
       endDate: "March 2021",
       description: [
         " I oversaw all website development, graphic design, social media, and client marketing campaigns. During this time I was responsible for obtaining commercial and government net new sales of $250,000 per year.",
-        "-Managed over 80 Client Accouts",
-        "-Responsible for $250,000 in sales per year",
+        "- Managed over 80 Client Accouts",
+        "- Responsible for $250,000 in sales per year",
     
       ],
     },
@@ -89,30 +88,30 @@ export const info = {
       startDate: "April 2014",
       endDate: "July 2015",
       description: [
-        "- Bang Muay Thai San Jose: Acheived membership goal within 3 months and gained enough revenue to construct an entirely new gym.",
+        "- Bang Muay Thai San Jose: Achieved membership goal within 3 months and gained enough revenue to construct an entirely new gym.",
         "- Tactical Distributors: Worked as part of a 2 man team that increased gross daily sales from $4,000 to $12,000.",
-        "- Bluewater Sales: achieved a full rebrand of the company, built a full online sales pipleline via an ecommerce store and government sector website while conducting GSA,DOD EMALL, HUBZONE and direct sales face to face with the Army, Navy and Air Force.",
-        "- Everest Tactical: Increased the commercial side of the company from ($8000) per month to a net revenueof $35,000 per month within 6 months.",
+        "- Bluewater Sales: Achieved a full rebrand of the company, built a full online sales pipeline via an ecommerce store and government sector website while conducting GSA, DOD EMALL, HUBZONE and direct sales face to face with the Army, Navy and Air Force.",
+        "- Everest Tactical: Increased the commercial revenue of the company from -$8000 per month to $35,000 per month within 6 months.",
     
       ],
     },
     {
       name: "ipConfigure",
       location: "Marketing Manager",
-      startDate: "Septermber 2013",
+      startDate: "September 2013",
       endDate: "April 2014",
       description: [
-        " accomplished a company-wide rebrand that consisted of 2 new websites, a new logo design, full corporate identity and documentation rebranding. I worked indepth with the sales team to create tools and resources to facilitate product sales, including an internal sales hub. I also planned, scheduled and provided printed materials for trade shows and training courses.",
+        "Accomplished a company-wide rebrand that consisted of 2 new websites, a new logo design, full corporate identity and documentation rebranding. I worked indepth with the sales team to create tools and resources to facilitate product sales, including an internal sales hub. I also planned, scheduled and provided printed materials for trade shows and training courses.",
     
       ],
     },
     {
       name: "IntellecTechs",
       location: "Marketing Manager",
-      startDate: "Sep 2011",
+      startDate: "September 2011",
       endDate: "April 2013",
       description: [
-        "I maitained over 120 Social Media Profiles, built over 30 websites and created hundreds of print and graphic design collateral. I also supported the US Navy, and US Airforce via software development projects.",
+        "I maintained over 120 Social Media Profiles, built over 30 websites and created hundreds of print and graphic design collateral. I also supported the US Navy and US Airforce via software development projects.",
     
       ],
     },
