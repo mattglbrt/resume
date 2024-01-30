@@ -6,7 +6,7 @@ export const info = {
   I have led product marketing and demand generation teams for startups, entrepreneurs, and 
   Fortune 100 companies for the last decade. I have helped startups go to market and become 
   acquired, small businesses go from 0 to their first 10 million, and managed global marketing 
-  teams for publicly traded companies. I have produced over 200 websites for a multitude of businesses and entrepreneurs.
+  teams for a publicly traded company. I have produced over 200 websites for a multitude of businesses and entrepreneurs.
   I have extensive experience in the government sector working with both government agencies fulfilling contracts, and working with
   contractors to acquire them.
   `,
