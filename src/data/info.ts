@@ -18,8 +18,14 @@ export const info = {
       startDate: "January 2020",
       endDate: "Current",
       description: [
-        "A solo consultant focusing on RevOps.",
-        "- 3.2m of Revenue Generated for Clients",
+        "A solo consultant focusing on Revenue Operations; Sales, Marketing, Customer Experience. I have helped generate over 3.2m of revenue for clients.",
+        "Clients include:",
+        "- Coldwell Banker",
+        "- AccuTrain",
+        "- IntellecTechs",
+        "- Invisible Commerce",
+        "- Edgio",
+        "- Trepic",
       ],
     },
 
