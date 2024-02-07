@@ -48,7 +48,7 @@ export const info = {
       startDate: "July 2022",
       endDate: "June 2023",
       description: [
-        "I served as a consultant for the JavaScript Jam podcast and the Composability Summit 2022. My responsibilities included the development and implementation of an outbound email campaign, which successfully secured 27 leading industry speakers. I also handled all aspects of video production, design, and marketing related to the summit.",
+        "I consulted on the JavaScript Jam podcast and the Composability Summit 2022. My responsibilities included the development and implementation of an outbound email campaign, which successfully secured 27 leading industry speakers. I also handled all aspects of video production, design, and marketing related to the summit.",
         "- Reached over 130,000 views and attracted 5,000 registered attendees.",
         "- Secured 27 industry experts to speak at the event",
     
@@ -72,7 +72,7 @@ export const info = {
       startDate: "March 2021",
       endDate: "September 2021",
       description: [
-        "Conducted a full rebrand and go to market campaign with the Director of Growth to lead the teams that resulted in a $50 million acquisition (Limelight Networks) within 7 months of the rebrand.",
+        "Performed a full rebrand and go to market campaign with the Director of Growth to lead the teams that resulted in a $50 million acquisition (Limelight Networks) within 7 months of the rebrand.",
     
       ],
     },
