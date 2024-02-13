@@ -163,6 +163,12 @@ export const info = {
       thumbnail: "/assets/images/astro-portfolio-jsjam.png",
       liveUrl: "https://www.javascriptjam.com/",
     },
+    {
+      title: "This Way Global",
+      isFeatured: true,
+      thumbnail: "/assets/images/astro-portfolio-thisway.png",
+      liveUrl: "https://www.thisway.com/",
+    },
 
     {
       title: "Patrona Corp",
