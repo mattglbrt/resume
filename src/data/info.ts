@@ -167,7 +167,7 @@ export const info = {
       title: "This Way Global",
       isFeatured: true,
       thumbnail: "/assets/images/astro-portfolio-thisway.png",
-      liveUrl: "https://www.thisway.com/",
+      liveUrl: "https://www.thiswayglobal.com/",
     },
 
     {
