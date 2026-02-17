@@ -2,14 +2,7 @@ export const info = {
   baseUrl: "https://themattgilbert.com",
   name: "Matt Gilbert",
   jobDescription: "Sales, Growth Marketing & Demand Generation Leader",
-  about: `I have 18 years of experience in the marketing and information technology industries. 
-  I have led product marketing and demand generation teams for startups, entrepreneurs, and 
-  Fortune 100 companies for the last decade. I have helped startups go to market and become 
-  acquired, small businesses go from 0 to their first 10 million, and managed global marketing 
-  teams for a publicly traded company. I have produced over 200 websites for a multitude of businesses and entrepreneurs.
-  I have extensive experience in the government sector working with both government agencies fulfilling contracts, and working with
-  contractors to acquire them.
-  `,
+  about: `With 18 years of experience spanning marketing and information technology, I have led product marketing and demand generation teams for startups, entrepreneurs, and Fortune 100 companies. I've helped startups go to market and get acquired, scaled small businesses from $0 to $10M+, and managed global marketing teams for a publicly traded company. I've produced over 200 websites for businesses and entrepreneurs across industries, and bring deep expertise in the government sector — from fulfilling agency contracts to helping contractors win them.`,
 
   experience: [
     {
@@ -18,7 +11,7 @@ export const info = {
       startDate: "January 2020",
       endDate: "Current",
       description: [
-        "A solo consultant focusing on Revenue Operations; Sales, Marketing, Customer Experience. I have helped generate over 3.2m of revenue for clients.",
+        "Solo consultancy specializing in Revenue Operations — spanning sales, marketing, and customer experience. Generated over $3.2M in revenue for clients.",
         "Clients include:",
         "- Coldwell Banker",
         "- AccuTrain",
@@ -35,10 +28,10 @@ export const info = {
       startDate: "July 2022",
       endDate: "June 2023",
       description: [
-        "Executed a comprehensive rebranding and go-to-market strategy encompassing various channels including websites, apps, and sales enablement resources. Designed and implemented robust outbound and inbound marketing systems, incorporating paid advertising, outbound email sequences, and content marketing.",
-        "- Acheived 1200% increase in LinkedIn engagement.",
-        "- Reached Page 1 in Google SERP within 30 days of content strategy going live",
-        "- Increased website traffic by 3000 visitors per month",
+        "Led a comprehensive rebranding and go-to-market strategy across websites, apps, and sales enablement resources. Built outbound and inbound marketing systems including paid advertising, email sequences, and content marketing.",
+        "- Achieved 1,200% increase in LinkedIn engagement",
+        "- Ranked on Google page 1 within 30 days of launching content strategy",
+        "- Increased website traffic by 3,000 visitors per month",
       ],
     },
 
@@ -48,9 +41,9 @@ export const info = {
       startDate: "July 2022",
       endDate: "June 2023",
       description: [
-        "I consulted on the JavaScript Jam podcast and the Composability Summit 2022. My responsibilities included the development and implementation of an outbound email campaign, which successfully secured 27 leading industry speakers. I also handled all aspects of video production, design, and marketing related to the summit.",
-        "- Reached over 130,000 views and attracted 5,000 registered attendees.",
-        "- Secured 27 industry experts to speak at the event",
+        "Consulted on the JavaScript Jam podcast and led marketing for the Composability Summit 2022. Developed and executed an outbound email campaign that secured 27 industry speakers. Managed all video production, design, and promotional efforts for the summit.",
+        "- Drove over 130,000 views and 5,000 registered attendees",
+        "- Secured 27 industry experts as speakers",
     
       ],
     },
@@ -60,10 +53,10 @@ export const info = {
       startDate: "September 2021",
       endDate: "January 2022",
       description: [
-        "Lead global marketing teams located in the US, EMEA, and APAC regions. Directly reported to the VP of Demand Gen to develop and coordinate all inbound and outbound marketing campaigns.",
-        "- Directly managed $30,000 in monthly Adspend",
-        "- Created a global product marketing strategy",
-        "- Managed over 30 direct reports",
+        "Led global marketing teams across the US, EMEA, and APAC. Reported directly to the VP of Demand Generation to develop and coordinate all inbound and outbound campaigns.",
+        "- Managed $30,000 in monthly ad spend",
+        "- Developed a global product marketing strategy",
+        "- Oversaw 30+ direct reports across three regions",
       ],
     },
     {
@@ -72,7 +65,7 @@ export const info = {
       startDate: "March 2021",
       endDate: "September 2021",
       description: [
-        "Performed a full rebrand and go to market campaign with the Director of Growth to lead the teams that resulted in a $50 million acquisition (Limelight Networks) within 7 months of the rebrand.",
+        "Spearheaded a full rebrand and go-to-market campaign alongside the Director of Growth. The effort culminated in a $50M acquisition by Limelight Networks — achieved within 7 months of the rebrand launch.",
     
       ],
     },
@@ -82,9 +75,9 @@ export const info = {
       startDate: "July 2015",
       endDate: "March 2021",
       description: [
-        " I oversaw all website development, graphic design, social media, and client marketing campaigns. During this time I was responsible for obtaining commercial and government net new sales of $250,000 per year.",
-        "- Managed over 80 Client Accouts",
-        "- Responsible for $250,000 in sales per year",
+        "Oversaw all website development, graphic design, social media, and client marketing campaigns. Drove $250,000 in annual commercial and government net-new sales.",
+        "- Managed 80+ client accounts",
+        "- Led end-to-end marketing operations for government and commercial clients",
     
       ],
     },
@@ -94,10 +87,10 @@ export const info = {
       startDate: "April 2014",
       endDate: "July 2015",
       description: [
-        "- Bang Muay Thai San Jose: Achieved membership goal within 3 months and gained enough revenue to construct an entirely new gym.",
-        "- Tactical Distributors: Worked as part of a 2 man team that increased gross daily sales from $4,000 to $12,000.",
-        "- Bluewater Sales: Achieved a full rebrand of the company, built a full online sales pipeline via an ecommerce store and government sector website while conducting GSA, DOD EMALL, HUBZONE and direct sales face to face with the Army, Navy and Air Force.",
-        "- Everest Tactical: Increased the commercial revenue of the company from -$8000 per month to $35,000 per month within 6 months.",
+        "- Bang Muay Thai San Jose: Hit membership goals within 3 months, generating enough revenue to fund construction of an entirely new gym.",
+        "- Tactical Distributors: Part of a two-person team that tripled gross daily sales from $4,000 to $12,000.",
+        "- Bluewater Sales: Led a full company rebrand and built an online sales pipeline via e-commerce and a government sector website. Managed GSA, DOD EMALL, HUBZone, and face-to-face sales with Army, Navy, and Air Force.",
+        "- Everest Tactical: Turned the company's commercial revenue from -$8,000/month to $35,000/month within 6 months.",
     
       ],
     },
@@ -107,7 +100,7 @@ export const info = {
       startDate: "September 2013",
       endDate: "April 2014",
       description: [
-        "Accomplished a company-wide rebrand that consisted of 2 new websites, a new logo design, full corporate identity and documentation rebranding. I worked indepth with the sales team to create tools and resources to facilitate product sales, including an internal sales hub. I also planned, scheduled and provided printed materials for trade shows and training courses.",
+        "Led a company-wide rebrand including 2 new websites, a new logo, and full corporate identity refresh. Partnered in-depth with the sales team to build enablement tools, including an internal sales hub. Planned and produced printed materials for trade shows and training courses.",
     
       ],
     },
@@ -117,7 +110,7 @@ export const info = {
       startDate: "September 2011",
       endDate: "April 2013",
       description: [
-        "I maintained over 120 Social Media Profiles, built over 30 websites and created hundreds of print and graphic design collateral. I also supported the US Navy and US Airforce via software development projects.",
+        "Managed over 120 social media profiles, built 30+ websites, and produced hundreds of print and graphic design assets. Supported US Navy and US Air Force projects through software development initiatives.",
     
       ],
     },
@@ -130,7 +123,7 @@ export const info = {
       startDate: "2008",
       endDate: "2012",
       description: [
-        "Bachelor of Applied Science, Pscyhology",
+        "Bachelor of Applied Science, Psychology",
       ],
     },
   
@@ -186,7 +179,7 @@ export const info = {
       title: "Pollard's Chicken",
       isFeatured: true,
       thumbnail: "/assets/images/astro-portfolio-pollards.png",
-      liveUrl: "https://pollardschicken.com//",
+      liveUrl: "https://pollardschicken.com/",
     },
   ],
 };
