@@ -2,7 +2,7 @@ export const info = {
   baseUrl: "https://themattgilbert.com",
   name: "Matt Gilbert",
   jobDescription: "Sales, Growth Marketing & Demand Generation Leader",
-  about: `With 18 years of experience spanning marketing and information technology, I have led product marketing and demand generation teams for startups, entrepreneurs, and Fortune 100 companies. I've helped startups go to market and get acquired, scaled small businesses from $0 to $10M+, and managed global marketing teams for a publicly traded company. I've produced over 200 websites for businesses and entrepreneurs across industries, and bring deep expertise in the government sector — from fulfilling agency contracts to helping contractors win them.`,
+  about: `With 20 years of experience spanning marketing and information technology, I specialize in advertising management and customer lifecycle strategy — from acquisition through retention and expansion. I've led product marketing and demand generation teams for startups, entrepreneurs, and Fortune 100 companies, building full-funnel campaigns that drive measurable growth. I've helped startups go to market and get acquired, scaled small businesses from $0 to $10M+, and managed global ad operations and marketing teams for a publicly traded company. I've produced over 200 websites across industries, and bring deep expertise in the government sector — from fulfilling agency contracts to helping contractors win them.`,
 
   experience: [
     {
